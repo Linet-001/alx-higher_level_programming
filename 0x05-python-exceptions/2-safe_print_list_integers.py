@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-safe_print_list_integers.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com.com>
+# Linet <linetnyambura27@gmail.com.com>
 
 
 def safe_print_list_integers(my_list=[], x=0):
