@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-say_my_name.py
-# Gedeo Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a name-printing function."""
 
 
