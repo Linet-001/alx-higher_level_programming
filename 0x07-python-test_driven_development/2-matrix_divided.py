@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-matrix_divided.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a matrix division function."""
 
 
