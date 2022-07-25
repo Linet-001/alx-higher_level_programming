@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-rectangle.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Linet <linetnyambura27@gmail.com>
 """Defines a Rectangle class."""
 
 
