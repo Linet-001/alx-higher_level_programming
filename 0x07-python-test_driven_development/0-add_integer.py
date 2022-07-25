@@ -1,5 +1,5 @@
 # 0-add_integer.txt
-# Gedeon Obae Gekonge <gedeonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 
 ===========================
 How to Use 0-add_integer.py
