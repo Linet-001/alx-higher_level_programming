@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-print_square.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a square-printing function."""
 
 
