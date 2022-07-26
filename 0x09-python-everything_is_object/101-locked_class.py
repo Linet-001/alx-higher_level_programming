@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-locked_class.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Linet <linetnyambura27@gmail.com>
 """Defines a locked class."""
 
 
