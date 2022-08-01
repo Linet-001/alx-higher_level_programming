@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 3-is_kind_of_class.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a class and inherited class-checking function."""
 
 
