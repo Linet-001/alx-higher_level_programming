@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-is_same_class.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a class-checking function."""
 
 
