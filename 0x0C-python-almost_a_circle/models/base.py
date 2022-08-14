@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # base.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambua27@gmail.com>
 """Defines a base model class."""
 import json
 import csv
