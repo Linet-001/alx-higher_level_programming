@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # rectangle.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines a rectangle class."""
 from models.base import Base
 

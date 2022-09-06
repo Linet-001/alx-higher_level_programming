@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # test_rectangle.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# linet <linetnyambura27@gmail.com>
 """Defines unittests for models/rectangle.py.
 
 Unittest classes:
