@@ -21,6 +21,8 @@
 <br>
 
 
+<img src ="./image/code.jpg"/>
+
 ## Resources
 
 ### Read or watch:
@@ -31,4 +33,4 @@
 
 * <a href = "https://docs.python.org/3/tutorial/interpreter.html" > Using the Python Interpreter </a>
 
-*
+
