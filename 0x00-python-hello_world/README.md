@@ -29,6 +29,6 @@
 
 * <a href = "https://docs.python.org/3/tutorial/appetite.html"> Whetting Your Appetite </a>
 
-* <a href = "https://docs.python.org/3/tutorial/interpreter.html"  Using the Python Interpreter </a>
+* <a href = "https://docs.python.org/3/tutorial/interpreter.html" > Using the Python Interpreter </a>
 
 *
