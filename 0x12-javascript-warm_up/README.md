@@ -1,6 +1,6 @@
 # JavaScript - Warm up
-##Resources
-###Read or watch:
+## Resources
+### Read or watch:
 
 * <a href='https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics'>Writing JavaScript Code</a>
 * <a href='https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables'>Variables</a>
