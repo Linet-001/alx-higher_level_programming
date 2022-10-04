@@ -1,6 +1,6 @@
-!/usr/bin/node
-//JS Script
-module.export = class Rectangle {
+#!/usr/bin/node
+// JS Script
+module.exports = class Rectangle {
   constructor (w, h) {
     if (w > 0 && h > 0) {
       this.width = w;
@@ -9,8 +9,8 @@ module.export = class Rectangle {
   }
 
   print () {
-    for (let i = 0; i< this.height; i++) {
-      console.log('X' .repeat(this.width));
+    for (let i = 0; i < this.height; i++) {
+      console.log('X'.repeat(this.width));
     }
   }
 };
