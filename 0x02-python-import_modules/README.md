@@ -1,3 +1,7 @@
+# Resources
+* <a href="https://docs.python.org/3/tutorial/modules.html">Modules</>
+* <a href="https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments">Command line arguments</a>
+
 Python - import & modules
 In this project, I learned about importing and using functions and creating modules in Python. I further practiced using the builtin function dir() and using command line arguments within Python programs.
 
