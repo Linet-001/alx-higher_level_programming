@@ -1,3 +1,10 @@
+# RESOURCES
+* <a href="https://python.swaroopch.com/oop.html">Object Oriented Programming (Read everything until the paragraph “Inheritance” excluded. You do NOT have to learn about class attributes, classmethod and staticmethod yet)</a>
+* <a href="https://python-course.eu/oop/object-oriented-programming.php">Object-Oriented Programming (Please *be careful*: in most of the following paragraphs, the author shows things the way you should not use or write a class in order to help you better understand some concepts and how everything works in Python 3. Make sure you read everything in the following paragraphs: General Introduction, First-class Everything, A Minimal Class in Python, Attributes (You DON’T have to learn about class attributes), Methods, The __init__ Method, “Data Abstraction, Data Encapsulation, and Information Hiding,” “Public, Protected, and Private Attributes”)<a/>
+* <a href="https://python-course.eu/oop/properties-vs-getters-and-setters.php">Properties vs. Getters and Setters<a/>
+* <a href="https://www.youtube.com/watch?v=1AGyBuVCTeE&">Learn to Program 9 : Object Oriented Programming<a/>
+* <a href="https://www.youtube.com/watch?v=apACNr7DC_s">Python Classes and Objects<a/>
+* <a href="https://www.youtube.com/watch?v=-DP1i2ZU9gk">Object Oriented Programming<a/>
 # Python - Classes and Objects
 
 In this project, I began practicing object-oriented programming using
