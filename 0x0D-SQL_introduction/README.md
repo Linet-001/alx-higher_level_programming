@@ -1,4 +1,16 @@
 # SQL - Introduction
+# Resources
+* <a href="https://www.youtube.com/watch?v=FR4QIeZaPeM">What is Database & SQL?<a/>
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04">A Basic MySQL Tutorial<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/ddldml.php">Basic SQL statements: DDL and DML (no <a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/queries.php">Basic queries: SQL and RA<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/functions.php">SQL technique: functions<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php">SQL technique: subqueries<a/>
+* <a href="https://stackoverflow.com/questions/29402361/what-makes-the-big-difference-between-a-backtick-and-an-apostrophe/29402458">What makes the big difference between a backtick and an apostrophe?<a/>
+* <a href="https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html">MySQL 8.0 SQL Statement Syntax<a/>
+* <a href="https://phoenixnap.com/kb/install-mysql-ubuntu-20-04">installing MySQL in Ubuntu 20.04<a/>
+* <a href="https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US">MySQL Cheat Sheet<a/>
+
 
 This was my first project in which I began to work with SQL and relational
 databases. I began practicing introductory data definition and data
