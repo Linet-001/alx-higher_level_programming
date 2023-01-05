@@ -1,4 +1,10 @@
 # Python - Test-driven development
+# Resources
+* <a href="https://docs.python.org/3.4/library/doctest.html">doctest — Test interactive Python examples</a>
+* <a href="https://pymotw.com/3/doctest/">doctest – Testing through documentation<a/>
+* <a href="https://www.youtube.com/watch?v=1Lfv5tUGsn8">Unit Tests in Python</a>
+* <a href="https://www.youtube.com/watch?v=6tNS--WetLI">Unittest module<a/>
+* <a href="https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/">Interactive and Non-interactive tests</a>
 
 In this project, I started practicing test-driven development using `docstring`
 and `unittest` in Python.
