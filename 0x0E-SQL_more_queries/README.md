@@ -1,4 +1,22 @@
 # SQL - More queries
+# Resources
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php">How To Create a New User and Grant Permissions in MySQL<a/>
+* <a href="https://www.mysqltutorial.org/mysql-grant.aspx">How To Use MySQL GRANT Statement To Grant Privileges To a User<a/>
+* <a href="https://zetcode.com/mysql/constraints/">MySQL constraints<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php">SQL technique: subqueries<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/join.php">Basic query operation: the join<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/multijoin.php">SQL technique: multiple joins and the distinct keyword<a/>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/jointypes.php">SQL technique: join types</a>
+* <a href="https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/setops.php">SQL technique: union and minus<a/>
+* <a href="https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US">MySQL Cheat Sheet<a/>
+* <a href="https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html">The Seven Types of SQL Joins<a/>
+* <a href="https://www.youtube.com/watch?v=yPu6qV5byu4">MySQL Tutorial<a/>
+* <a href="https://www.sqlstyle.guide/">SQL Style Guide<a/>
+* <a href="https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html">MySQL 8.0 SQL Statement Syntax<a/>
+* <a href="https://www.guru99.com/database-design.html">Design<a/>
+* <a href="https://www.guru99.com/database-normalization.html">Normalization<a/>
+* <a href="https://www.guru99.com/er-modeling.html">ER Modeling<a/>
+
 
 In this project, I continued to practicing SQL queries, working with
 permissoins, joins, and constraints.
