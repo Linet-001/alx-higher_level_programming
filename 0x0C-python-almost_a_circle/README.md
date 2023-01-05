@@ -1,4 +1,9 @@
 # Python - Almost a circle
+# Resources
+* <a href="https://yasoob.me/2013/08/04/args-and-kwargs-in-python-explained/">args/kwargs</a>
+* <a href="https://docs.python.org/3/library/json.html">JSON encoder and decoder<a/>
+* <a href="https://docs.python.org/3.4/library/unittest.html#module-unittest">unittest module<a/>
+* <a href="https://www.pythonsheets.com/notes/python-tests.html">Python test cheatsheet<a/>
 
 In this project, I encapsulated skills in Python object-oriented programming
 by coding three connected classes to represent rectangles and squares. I wrote my
