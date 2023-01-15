@@ -1,4 +1,19 @@
 # Javascript - Web JQuery
+## Resources
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">What is JavaScript?<a/>
+* <a href="https://jquery-tutorial.net/selectors/using-elements-ids-and-classes/">Selector<a/>
+* <a href="https://jquery-tutorial.net/dom-manipulation/getting-and-setting-content/">Get and set content<a/>
+* <a href="https://jquery-tutorial.net/dom-manipulation/getting-and-setting-css-classes/">Manipulate CSS classes<a/>
+* <a href="https://jquery-tutorial.net/dom-manipulation/the-append-and-prepend-methods/">Manipulate DOM elements<a/>
+* <a href="https://oscarotero.com/jquery/">API<a/>
+* <a href="https://jquery-tutorial.net/ajax/introduction/">Introduction<a/>
+* <a href="https://jquery-tutorial.net/ajax/the-get-and-post-methods/">GET & POST request<a/>
+* <a href="https://www.youtube.com/watch?v=fEYx8dQr_cQ">JQuery Ajax Tutorial #1 - Using AJAX & API’s<a/>
+* <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong">What went wrong? Troubleshooting JavaScript<a/>
+* <a href="https://jquery.com/">JQuery<a/>
+* <a href="https://api.jquery.com/">JQuery API<a/>
+* <a href="https://learn.jquery.com/ajax/">JQuery Ajax<a/>
+
 
 This was the preparatory project learning how to manipulate the DOM with jQuery
 before implementing it into our HolbertonBnB project.
